@@ -1,0 +1,62 @@
+{
+    "cloth1": {
+        "name": "Sweatshirt",
+        "description": "comfy, soft, loose",
+        "price": "$20",
+        "categories": ["top", "lounge-wear"]
+    },
+    "cloth2" : {
+        "name": "Sweatpants",
+        "description": "soft, warm, loose",
+        "price": "$20",
+        "categories": ["lounge-wear", "bottoms"]
+    },
+    "cloth3" :{
+        "name": "Blouse",
+        "description": "silky, ruffled, long",
+        "price": "$15",
+        "categories": ["summer/spring", "top"]
+    },
+    "cloth4" :{
+        "name": "Cardigan",
+        "description": "knit, soft, long",
+        "price": "$18",
+        "categories": ["fall/winter", "top"]
+    },
+    "cloth5" :{
+        "name": "Jean",
+        "description": "denim, blue , long",
+        "price": "$25",
+        "categories": ["bottoms"]
+    },
+    "cloth6" :{
+        "name": "Leggings",
+        "description": "stretchy, soft , long",
+        "price": "$18",
+        "categories": ["bottoms"]
+    },
+    "cloth7" : {
+        "name": "Body-suit",
+        "description": "stretchy, soft , tight-fitting",
+        "price": "$12",
+        "categories": ["top"]
+    },
+    "cloth8" : {
+        "name": "Skirt",
+        "description": "sikly, soft , flowy",
+        "price": "$18",
+        "categories": ["bottoms"]
+    },
+    "cloth9":{
+        "name": "Vest",
+        "description": "sharp, firm , buttons",
+        "price": "$16",
+        "categories": ["top"]
+    },
+    "cloth10":{
+        "name": "Sweater",
+        "description": "knitted, soft , flowy",
+        "price": "$18",
+        "categories": ["top", "fall/winter"]
+    }
+}
